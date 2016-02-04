@@ -1,4 +1,5 @@
 #aboutme
+Anyone looking to learn more about me, read this first.
 
 I consider myself a __problem solver__. I love working with technology and I enjoy solving challenging problems. I'm comfortable in autonomous environments, but I enjoy collaboration with other engineers.  I often find myself migrating into leadership roles because I have excellent __communication__ skills and I enjoy empowering engineers to reach their full potential.  Communicating technical topics to engineers and non-technical people in the same audience is a challenge I enjoy tackling. 
 
